@@ -20,7 +20,7 @@ Code and new dataset can be accessed through this link: https://drive.google.com
   
 -  We evaluated models including Linear, Ridge, Lasso, Random Forest, Gradient Boosting, Support Vector Regressor, and XGBoost.
   
-- Linear models showed limited performance compared to tree-based models like Random Forest, Gradient Boosting, and XGBoost that performed better, with \textbf{XGBoost} emerging as the \textbf{best model} due to its superior accuracy, random residual distribution, and lowest error metrics.
+- Linear models showed limited performance compared to tree-based models like Random Forest, Gradient Boosting, and XGBoost that performed better, with **XGBoost** emerging as the **best model** due to its superior accuracy, random residual distribution, and lowest error metrics.
   
 - The final predictive system, built using the optimized XGBoost model, allows users to input operational data and receive a predicted productivity level. This tool can help improve decision-making and resource management in garment manufacturing.
   
